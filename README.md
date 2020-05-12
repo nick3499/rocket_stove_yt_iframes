@@ -190,4 +190,26 @@ A [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements) stat
 
 - `render_template('template.htm', video_title=VIDEO_TITLE, url=URL)` renders the Jinja2 template.
 
+
+---
+
+
+## Twitter Hashtags
+
+- [#Python3](https://twitter.com/hashtag/python3?f=live)
+- [#PythonScripting](https://twitter.com/hashtag/PythonScripting?f=live)
+- [#Scripting](https://twitter.com/hashtag/Scripting?f=live)
+- [#LearnToCode](https://twitter.com/hashtag/LearnToCode?f=live)
+- [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?f=live)
+- [#DeveloperLife](https://twitter.com/hashtag/DeveloperLife?f=live)
+- [#DevLife](https://twitter.com/hashtag/DevLife?f=live)
+- [#Coder](https://twitter.com/hashtag/Coder?f=live)
+- [#CodeNewbies](https://twitter.com/hashtag/CodeNewbies?f=live)
+- [#Coding](https://twitter.com/hashtag/Coding?f=live)
+- [#Code](https://twitter.com/hashtag/Code?f=live)
+- [#CodingLife](https://twitter.com/hashtag/CodingLife?f=live)
+- [#CodeNewbie](https://twitter.com/hashtag/CodeNewbie?f=live)
+- [#Coders](https://twitter.com/hashtag/Coders?f=live)
+- [#CodingIsFun](https://twitter.com/hashtag/CodingIsFun?f=live)
+
 <sup>1</sup> [magic number](https://en.wikipedia.org/wiki/Shebang_\(Unix\)#Magic_number)
