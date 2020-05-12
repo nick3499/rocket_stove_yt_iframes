@@ -11,7 +11,7 @@ Rocket Stove YT Iframes: Python 3, Flask app, Jinja 2 template, csv.reader()
 Navigate to the root directory of `rocket_stove` and run the app:
 
 ```shell
-. run.sh
+. .run.sh
 ```
 
 ```shell
