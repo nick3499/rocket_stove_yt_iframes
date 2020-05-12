@@ -198,6 +198,8 @@ A [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements) stat
 
 - [#Python3](https://twitter.com/hashtag/python3?f=live)
 - [#PythonScripting](https://twitter.com/hashtag/PythonScripting?f=live)
+- [#PythonCoding](https://twitter.com/hashtag/PythonCoding?f=live)
+- [#LearnPython](https://twitter.com/hashtag/LearnPython?f=live)
 - [#Scripting](https://twitter.com/hashtag/Scripting?f=live)
 - [#LearnToCode](https://twitter.com/hashtag/LearnToCode?f=live)
 - [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?f=live)
