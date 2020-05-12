@@ -22,6 +22,11 @@ export FLASK_APP=rocket_stove
 flask run
 ```
 
+- `dash` is basically the same thing as `bash`, as they are both Unix shells, but dash is smaller.
+- `export FLASK_ENV=development` environmental variable sets the Flask app to `development` mode, which includes a debugger.
+- `export FLASK_APP=rocket_stove` environmental variable tells Flask which app to run.
+- `flask run` starts the Flask app
+
 
 ---
 
