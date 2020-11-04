@@ -237,3 +237,5 @@ A [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements) stat
 - [#CodingIsFun](https://twitter.com/hashtag/CodingIsFun?f=live)
 
 <sup>1</sup> [magic number](https://en.wikipedia.org/wiki/Shebang_\(Unix\)#Magic_number)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
